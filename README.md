@@ -15,3 +15,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. creating class component
 3. defining metadata with a decorator
 4. bootstrapping app component
+
+# Templates, Interpolation, and Directive
+
+1. building a template
+2. using a component as a directive
+3. binding with interpolation
+4. adding logic with directive
