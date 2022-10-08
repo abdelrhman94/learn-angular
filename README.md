@@ -22,3 +22,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. using a component as a directive
 3. binding with interpolation
 4. adding logic with directive
+
+# Data Binding and Pipes
+1. property binding
+2. handling events with event binding
+3. handling input with two way data binding
+4. transforming data with pipes
